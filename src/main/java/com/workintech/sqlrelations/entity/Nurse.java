@@ -16,4 +16,5 @@ public class Nurse {
     private String name;
     private String surname;
     private String proficiency;
+    private String Mert;
 }
